@@ -13,3 +13,5 @@ function jumlahVolumeDuaKubus(a, b) {
 alert(jumlahVolumeDuaKubus(2, 3));
 
 console.log(jumlahVolumeDuaKubus(10, 15));
+
+console.log();
