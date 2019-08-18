@@ -1,5 +1,5 @@
-var jmlAngkot = 10;
-var angkotBeroperasi = 6;
+let jmlAngkot = 10;
+let angkotBeroperasi = 6;
 
 for (angkot = 1; angkot <= jmlAngkot; angkot++) {
     if (angkot <= angkotBeroperasi && angkot !== 5) {

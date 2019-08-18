@@ -4,7 +4,7 @@ function tambah() {
         hasil += arguments[i];
     }
     return hasil;
-
 }
-let coba = tambah(1, 2, 4, 3);
+
+let coba = tambah(1, 2, 4, 3, 10);
 console.log(coba);
