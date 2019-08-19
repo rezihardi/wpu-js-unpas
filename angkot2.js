@@ -1,6 +1,6 @@
-var jmlAngkot = 10;
-var angkotBeroperasi = 7;
-var angkot = 1;
+let jmlAngkot = 10;
+let angkotBeroperasi = 7;
+let angkot = 1;
 
 while (angkot <= angkotBeroperasi) {
     console.log('angkot No.' + angkot + ' sedang beroperasi');
